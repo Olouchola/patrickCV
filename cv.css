@@ -175,22 +175,22 @@ section > div{
 
 .c50{
     width: 50%;
-    background-color: rgb(142, 197, 142);
+    background-color: #4B8;
 }
 .c70{
     width: 70%;
-    background-color: rgb(132, 173, 132);
-}
-
-.c85{
-    width: 85%;
-    background-color: #8B8;
-}
-.c90{
-    width: 90%;
     background-color: #4B8;
 }
-.c95{
+
+.c60{
+    width: 60%;
+    background-color: #4B8;
+}
+.c45{
+    width: 45%;
+    background-color: #4B8;
+}
+.c85{
     width: 95%;
     background-color: #4B8;
 }
