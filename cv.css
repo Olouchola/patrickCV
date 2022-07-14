@@ -186,11 +186,19 @@ section > div{
     width: 60%;
     background-color: #4B8;
 }
+.c35{
+    width: 35%;
+    background-color: #4B8;
+}
 .c45{
     width: 45%;
     background-color: #4B8;
 }
 .c85{
+    width: 85%;
+    background-color: #4B8;
+}
+.c95{
     width: 95%;
     background-color: #4B8;
 }
